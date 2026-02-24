@@ -18,6 +18,18 @@ D'AKSARA TECH (sebelumnya *Jasa Joki*) adalah sebuah sistem informasi berbasis w
 - **Konsultasi Langsung (Pesan Masuk)**: Halaman chat bergaya *Split-View* (ala WhatsApp Web) untuk memantau pesan masuk dari pelanggan secara realtime, lengkap dengan indikator *badge* pesan belum dibaca. Admin dapat merespons dan melampirkan progres tugas (*image/document*).
 - **Notifikasi Sistem Otomatis**: Secara otomatis mengirimkan notifikasi *real-time* ke akun pelanggan atas setiap perubahan status order mereka.
 
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/2b7b3f34-0cfc-417b-b24c-27359a87c216" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/e49d15a6-e34c-4ad7-a7b6-7247e7bc7e45" />
+<img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/a678655b-8a3b-46e7-aeba-68661575a7fb" />
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/79cfa420-2a25-458d-b774-428d08b99928" />
+<img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/b9fdffbe-7ea0-49d1-91af-7663d65a6abf" />
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/beba148d-3789-4789-9240-788b45caa9f3" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/121e9018-37c7-4f9c-a762-aaa7ae6ee0d3" />
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/a13ee52a-f4fa-4f50-87be-78c76292c86b" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/99e46ac1-a875-4042-bf88-2f1663dce156" />
+
+
+
 ### 👤 Customer Panel
 - **Pemesanan Layanan**: Antarmuka pemesanan yang mudah. Pelanggan dapat menyertakan deskripsi dan file pendukung (referensi tugas).
 - **Transparansi Biaya (Itemized Billing)**: Rincian perhitungan total harga ditampilkan secara jelas sejak *Form Order* hingga *Invoice*, termasuk kalkulasi *Biaya Prioritas Deadline (Urgency Fee)* sesuai pilihan waktu (Reguler, Cepat +10%, atau Kilat +50%).
@@ -28,12 +40,34 @@ D'AKSARA TECH (sebelumnya *Jasa Joki*) adalah sebuah sistem informasi berbasis w
 - **Notifikasi**: Panel notifikasi *in-app* dengan indikator (*badge*) jumlah pesan yang belum dibaca dari Admin atau pembaruan status sistem.
 - **Unduh Hasil**: Mengunduh langsung file *output* tugas dari Admin.
 
-### 🌐 Fitur Umum (Landing Page)
-- **Tema Dinamis (Dark/Light Mode)**: Tersedia di seluruh tampilan sistem (diaktifkan melalui Navbar).
-- **Landing Page Modern**: Memiliki animasi *marquee* daftar layanan (*infinite scroll*) dengan desain yang bersih dan responsif (*glassmorphism*).
-- **100% Mobile Responsive**: Tata letak *navbar*, tabel, serta konten dasbor akan menyesuaikan otomatis untuk pengalaman mulus di Desktop, Tablet, hingga Layar Smartphone (iPhone/Android).
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/cc3e042f-7835-485f-98f0-ab99f2274654" />
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/be5012be-48bd-4151-ae2f-78aeefac2286" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/135a3061-61ae-4d00-b68d-85e91795726e" />
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/7bc02a01-df4f-4dfc-b590-8e4a8e64217e" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/f92854ae-073d-49fa-93df-7a99f37bfc7e" />
+<img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/cbbe72f3-ac81-4893-8d37-cf82ad2f6c63" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/4f8a0511-9983-4dc2-98b5-760bc4c643ca" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/9eb99716-52fa-4e9a-92d0-18902aa765be" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/b388a146-8cce-4e1d-9f9b-7c05070fd626" />
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/9e3c2ae3-9214-48dd-b22f-d1b0ac3b3892" />
 
----
+
+
+### 🌐 Fitur Umum (Autentikasi & Landing Page)
+- **Registrasi & Login Terpadu**: Halaman pendaftaran (*Register*) dan masuk (*Login*) dengan desain *card* modern di tengah layar. Dilengkapi validasi kelengkapan form otomatis.
+- **Role-Based Access Control (RBAC)**: Sistem otomatis membedakan sesi login antara `Admin` dan `Customer`, mengarahkan pengguna ke *dashboard* masing-masing, dan memblokir akses lintas-*role*.
+- **Enkripsi Kata Sandi**: Kata sandi (*password*) pengguna pada halaman pendaftaran tidak pernah disimpan dalam bentuk teks biasa, melainkan di-hash menggunakan algoritma `Bcrypt` bawaan PHP yang kuat.
+- **Tema Dinamis (Dark/Light Mode)**: Tersedia di seluruh tampilan sistem termasuk halaman Login/Register (diaktifkan melalui Navbar atau *toggle* bulan/matahari).
+- **Landing Page Modern**: Memiliki animasi *marquee* daftar layanan (*infinite scroll*) dengan desain yang bersih dan responsif (*glassmorphism*).
+- **100% Mobile Responsive**: Tata letak form login/register, *navbar*, tabel, serta konten dasbor akan menyesuaikan otomatis untuk pengalaman mulus di Desktop, Tablet, hingga Layar Smartphone (iPhone/Android).
+
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/d0bb3b81-f777-49a1-8ffc-46c0552ea6ea" />
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/4236b12a-5168-4639-b603-59c18ea03bde" />
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/525d0c2b-67bd-40e5-9c7b-4574a5e570df" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/02949af0-5cc6-47af-b1fd-634c38d397d2" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/2d449b1c-3c73-4d54-b307-8e7a2c3ca07e" />
+
+
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -128,3 +162,4 @@ Sistem "D'AKSARA TECH" ini telah mengantisipasi standar eksploitasi dasar guna k
 ---
 
 **Diterbitkan pada Tahun 2026 © Hak Cipta oleh D'AKSARA TECH**
+
