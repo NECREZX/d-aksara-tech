@@ -19,7 +19,7 @@ D'AKSARA TECH (sebelumnya *Jasa Joki*) adalah sebuah sistem informasi berbasis w
 - **Notifikasi Sistem Otomatis**: Secara otomatis mengirimkan notifikasi *real-time* ke akun pelanggan atas setiap perubahan status order mereka.
 
 <img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/2b7b3f34-0cfc-417b-b24c-27359a87c216" />
-<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/e49d15a6-e34c-4ad7-a7b6-7247e7bc7e45" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/d96e6784-3c51-4e27-9eb6-277dc320b000" />
 <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/a678655b-8a3b-46e7-aeba-68661575a7fb" />
 <img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/79cfa420-2a25-458d-b774-428d08b99928" />
 <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/b9fdffbe-7ea0-49d1-91af-7663d65a6abf" />
@@ -162,4 +162,5 @@ Sistem "D'AKSARA TECH" ini telah mengantisipasi standar eksploitasi dasar guna k
 ---
 
 **Diterbitkan pada Tahun 2026 © Hak Cipta oleh D'AKSARA TECH**
+
 
