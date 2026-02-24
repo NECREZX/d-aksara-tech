@@ -1,6 +1,6 @@
 # D'AKSARA TECH - Platform Jasa Akademik & Project IT
 
-D'AKSARA TECH (sebelumnya *Jasa Joki*) adalah sebuah sistem informasi berbasis web responsif yang menyediakan dan mengelola layanan pembuatan tugas akademik (makalah, presentasi, jurnal, dsb.) serta pengembangan proyek IT (website, aplikasi mobile, desain UI/UX). Sistem ini dirancang untuk memudahkan interaksi, transaksi, dan pertukaran file antara penyedia jasa (Admins) dan pelanggan (Customers).
+D'AKSARA TECH adalah sebuah sistem informasi berbasis web responsif yang menyediakan dan mengelola layanan pembuatan tugas akademik (makalah, presentasi, jurnal, dsb.) serta pengembangan proyek IT (website, aplikasi mobile, desain UI/UX). Sistem ini dirancang untuk memudahkan interaksi, transaksi, dan pertukaran file antara penyedia jasa (Admins) dan pelanggan (Customers).
 
 ---
 
@@ -162,5 +162,6 @@ Sistem "D'AKSARA TECH" ini telah mengantisipasi standar eksploitasi dasar guna k
 ---
 
 **Diterbitkan pada Tahun 2026 © Hak Cipta oleh D'AKSARA TECH**
+
 
 
